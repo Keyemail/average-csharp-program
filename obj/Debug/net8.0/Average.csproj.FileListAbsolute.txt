@@ -1,0 +1,14 @@
+/storage/Users/keyemail/Documents/Programming/C#/Average/bin/Debug/net8.0/Average
+/storage/Users/keyemail/Documents/Programming/C#/Average/bin/Debug/net8.0/Average.deps.json
+/storage/Users/keyemail/Documents/Programming/C#/Average/bin/Debug/net8.0/Average.runtimeconfig.json
+/storage/Users/keyemail/Documents/Programming/C#/Average/bin/Debug/net8.0/Average.dll
+/storage/Users/keyemail/Documents/Programming/C#/Average/bin/Debug/net8.0/Average.pdb
+/storage/Users/keyemail/Documents/Programming/C#/Average/obj/Debug/net8.0/Average.GeneratedMSBuildEditorConfig.editorconfig
+/storage/Users/keyemail/Documents/Programming/C#/Average/obj/Debug/net8.0/Average.AssemblyInfoInputs.cache
+/storage/Users/keyemail/Documents/Programming/C#/Average/obj/Debug/net8.0/Average.AssemblyInfo.cs
+/storage/Users/keyemail/Documents/Programming/C#/Average/obj/Debug/net8.0/Average.csproj.CoreCompileInputs.cache
+/storage/Users/keyemail/Documents/Programming/C#/Average/obj/Debug/net8.0/Average.dll
+/storage/Users/keyemail/Documents/Programming/C#/Average/obj/Debug/net8.0/refint/Average.dll
+/storage/Users/keyemail/Documents/Programming/C#/Average/obj/Debug/net8.0/Average.pdb
+/storage/Users/keyemail/Documents/Programming/C#/Average/obj/Debug/net8.0/Average.genruntimeconfig.cache
+/storage/Users/keyemail/Documents/Programming/C#/Average/obj/Debug/net8.0/ref/Average.dll

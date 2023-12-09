@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fSRS8AAN4FPs8d2JCbUfmCu5k8GaeLRcNwmtNxItUaO4QJ6rJfm/Y3dHl4BWKYynlDLTrbedp4YCxdI5UW6/Vg==",
+  "success": true,
+  "projectFilePath": "/storage/Users/keyemail/Documents/Programming/C#/Average/Average.csproj",
+  "expectedPackageFiles": [
+    "/home/keyemail/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
